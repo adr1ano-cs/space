@@ -1,1 +1,0 @@
-SECRET_KEY = django-insecure-gjp9_g7v1(v2!uz))!1^k0vk&1b4-0+e*(tuerm!%(!a)i!_5n
